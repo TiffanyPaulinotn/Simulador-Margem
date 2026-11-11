@@ -1,0 +1,6 @@
+.streamlit/secrets.toml
+*.cache.pkl
+__pycache__/
+*.xlsx
+*.xlsb
+!bases_jun23_embutidas.xlsx
